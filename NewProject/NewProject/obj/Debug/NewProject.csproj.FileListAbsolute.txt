@@ -1,0 +1,6 @@
+c:\users\giftsonpgmail.com\documents\visual studio 2012\Projects\NewProject\NewProject\bin\NewProject.dll
+c:\users\giftsonpgmail.com\documents\visual studio 2012\Projects\NewProject\NewProject\bin\NewProject.pdb
+c:\users\giftsonpgmail.com\documents\visual studio 2012\Projects\NewProject\NewProject\obj\Debug\NewProject.csprojResolveAssemblyReference.cache
+c:\users\giftsonpgmail.com\documents\visual studio 2012\Projects\NewProject\NewProject\obj\Debug\NewProject.dll
+c:\users\giftsonpgmail.com\documents\visual studio 2012\Projects\NewProject\NewProject\obj\Debug\NewProject.pdb
+C:\Users\giftsonpgmail.com\Documents\Visual Studio 2012\Projects\NewProject\NewProject\bin\MapControl.dll
